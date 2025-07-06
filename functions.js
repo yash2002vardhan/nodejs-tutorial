@@ -5,7 +5,3 @@ function greet(firstName, lastName) {
 
 fullName = greet('yashvardhan', 'goel');
 console.log(fullName);
-
-
-
-// function with return statement
