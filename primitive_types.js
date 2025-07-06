@@ -11,4 +11,4 @@ console.log(age);
 console.log(isApproved);
 console.log(firstName);
 console.log(typeof lastName)
-console.log(selectedColor);
+console.log(typeof selectedColor); // null has a datatype of object
